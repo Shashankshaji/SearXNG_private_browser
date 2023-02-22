@@ -73,3 +73,8 @@ docker-compose up
 To update this `docker-compose.yml` file:
 
 Check out the newest version on github: [searxng/searxng-docker](https://github.com/searxng/searxng-docker).
+
+<p>
+<img src="searxng.png" alt="searxng" >
+</p>
+
