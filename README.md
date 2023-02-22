@@ -1,7 +1,7 @@
 # searxng-docker
 
-Create a new SearXNG  instance in five minutes using Docker
-This is a private web browser hosted in proxmox
+- Create a new SearXNG  instance in five minutes using Docker
+- This is a private web browser hosted in proxmox
 
 ## What is included ?
 
